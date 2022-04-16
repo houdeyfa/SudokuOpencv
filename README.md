@@ -1,4 +1,4 @@
-# DeepLearning model
+# DeepLearning model in SUDOKU puzzle
 
 Welcome everyone to this project,
 
